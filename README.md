@@ -1,15 +1,17 @@
 # BE Information Technology - Semester 7 Resources ✨
 
 ## Subjects which we had and I have chosen are:
-✅ AIDS (Artifical Intelligence and Data Science) - II 
-\n✅ Internet of Everything
-✅ Software Testing and QA 
-✅ Information Retrieval System
+✅ AIDS (Artifical Intelligence and Data Science) - II <br>
+✅ Internet of Everything <br>
+✅ Software Testing and QA <br>
+✅ Information Retrieval System <br>
 ✅ Management Information System 
-
-💻 Data Science Lab
-💻 Internet of Everything Lab
-💻 Secure Application Development Lab
-💻 Recent Open Source Project Lab
+<br>
+<br>
+<br>
+💻 Data Science Lab <br>
+💻 Internet of Everything Lab <br>
+💻 Secure Application Development Lab <br>
+💻 Recent Open Source Project Lab <br>
 
 ### Give a ⭐️ if this repository helped you !!
