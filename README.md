@@ -1,4 +1,4 @@
-# BE Information Technology - Semester 7 Resources ✨
+# BE Information Technology - Semester 7 ✨
 ***
 ## Subjects:
 ✅ AIDS (Artifical Intelligence and Data Science) - II <br>
