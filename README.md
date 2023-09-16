@@ -1,1 +1,1 @@
-# BE_IT_SEM-7
+# BE Information Technology - Semester 7 Resources ✨
